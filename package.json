@@ -1,0 +1,30 @@
+{
+    "name": "yandex-game-of-live",
+    "version": "1.0.0",
+    "description": "Yandex job application problem",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "keupoz",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/keupoz/yandex-game-of-live.git"
+    },
+    "keywords": [
+        "yandex",
+        "game of life"
+    ],
+    "bugs": {
+        "url": "https://github.com/keupoz/yandex-game-of-live/issues"
+    },
+    "homepage": "https://github.com/keupoz/yandex-game-of-live#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "@types/node": "^14.14.22",
+        "tslint": "^6.1.3",
+        "typescript": "^4.1.3"
+    }
+}

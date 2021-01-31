@@ -1,0 +1,8 @@
+{
+    "jsRules": {
+        "no-default-export": true,
+        "prefer-const": true,
+        "quotemark": true,
+        "semicolon": true
+    }
+}

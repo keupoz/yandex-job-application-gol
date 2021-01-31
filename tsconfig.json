@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "checkJs": true,
+        "esModuleInterop": true,
+        "lib": ["ES6"],
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "outDir": "build",
+        "strict": true,
+        "target": "ES6"
+    }
+}
